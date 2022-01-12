@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi there 👋
+### 🌱 I’m currently learning MERN stack
+### 👯 I’m looking to collaborate on any project that includes JS
+### 📫 How to reach me: eliottvaldes@hotmail.com / evaldesl1800@alumno.ipn.mx
+### ⚡ Fun fact: I love cats and electronic music
 
 <!--
 **eliottvaldes/eliottvaldes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
