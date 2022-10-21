@@ -1,6 +1,7 @@
 ### 👋 Hi there 👋
-### 🌱 I’m currently learning MERN stack
-### 👯 I’m looking to collaborate on any project that includes JS
+### 🌱 I am currently a student of Artificial Intelligence Engineering at ESCOM-IPN
+### 🔭 I'm fascinated by everything related to cloud technologies 
+### 👯 I’m looking to collaborate on any project that includes AI, NLP, NN
 ### 📫 How to reach me: eliottvaldes@hotmail.com / evaldesl1800@alumno.ipn.mx
 ### ⚡ Fun fact: I love cats and electronic music
 
