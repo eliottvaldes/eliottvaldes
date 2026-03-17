@@ -1,21 +1,50 @@
-### 👋 Hi there 👋
-### 🌱 I am currently a student of Artificial Intelligence Engineering at ESCOM-IPN
-### 🔭 I'm fascinated by everything related to cloud technologies 
-### 👯 I’m looking to collaborate on any project that includes AI, NLP, NN
-### 📫 How to reach me: eliottvaldes@hotmail.com / evaldesl1800@alumno.ipn.mx
-### ⚡ Fun fact: I love cats and electronic music
+# Hi, I'm Eliot Valdés
+
+**AI Engineer | Software Engineer | Cloud & AI Architect**
+
+I design and build production-grade software with a strong focus on **AI systems, agentic architectures, cloud computing, backend engineering, and full stack development**.
+
+With **3+ years of professional experience**, I’ve worked on systems that go beyond implementation: from building robust application layers to designing **scalable architectures for complex AI agents**, cloud-native services, and high-impact software products.
+
+## What I do
+
+* Architect and develop **AI-driven systems** for real-world use cases
+* Build **multi-agent workflows**, orchestration layers, and intelligent automation
+* Design solutions on **cloud platforms** with scalability, reliability, and maintainability in mind
+* Develop **backend and full stack applications** with a strong engineering mindset
+* Turn complex business and technical requirements into clean, production-ready systems
+
+## Focus Areas
+
+* Artificial Intelligence
+* Agentic Systems
+* Cloud Computing
+* Software Architecture
+* Backend Engineering
+* Full Stack Development
+
+## Tech Interests
+
+**AI Agents · LLM Systems · NLP · Cloud Architecture · APIs · Distributed Systems · Automation**
+
+## Collaboration
+
+I’m always open to collaborating on projects related to:
+
+* AI engineering
+* Cloud-native platforms
+* Intelligent automation
+* Full stack products with strong technical depth
+
+## Contact
+
+📫 **[eliotvaldes.dev@gmail.com](mailto:eliotvaldes.dev@gmail.com)**
+📫 **[eliotvaldes.dev@outlook.com](mailto:eliotvaldes.dev@outlook.com)**
+
+## Beyond Code
+
+⚡ I like building ambitious things, thinking deeply about systems, and I still have a soft spot for **cats** and **electronic music**.
 
 <!--
-**eliottvaldes/eliottvaldes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**eliottvaldes/eliottvaldes** is a special repository because its README.md appears on your GitHub profile.
 -->
